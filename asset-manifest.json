@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.6cb6e6b0.chunk.css",
-    "main.js": "/static/js/main.f43d29de.chunk.js",
-    "main.js.map": "/static/js/main.f43d29de.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-    "static/css/2.266e55a5.chunk.css": "/static/css/2.266e55a5.chunk.css",
-    "static/js/2.5e37bc04.chunk.js": "/static/js/2.5e37bc04.chunk.js",
-    "static/js/2.5e37bc04.chunk.js.map": "/static/js/2.5e37bc04.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.da9d030f42a5526ee72c91f0012c5dd7.js": "/precache-manifest.da9d030f42a5526ee72c91f0012c5dd7.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.266e55a5.chunk.css.map": "/static/css/2.266e55a5.chunk.css.map",
-    "static/css/main.6cb6e6b0.chunk.css.map": "/static/css/main.6cb6e6b0.chunk.css.map",
-    "static/media/App.css": "/static/media/bg.b6796c73.jpg"
+    "main.css": "/react-example/static/css/main.443df7c6.chunk.css",
+    "main.js": "/react-example/static/js/main.e8ae9cca.chunk.js",
+    "main.js.map": "/react-example/static/js/main.e8ae9cca.chunk.js.map",
+    "runtime~main.js": "/react-example/static/js/runtime~main.c7bd7e12.js",
+    "runtime~main.js.map": "/react-example/static/js/runtime~main.c7bd7e12.js.map",
+    "static/css/2.266e55a5.chunk.css": "/react-example/static/css/2.266e55a5.chunk.css",
+    "static/js/2.5e37bc04.chunk.js": "/react-example/static/js/2.5e37bc04.chunk.js",
+    "static/js/2.5e37bc04.chunk.js.map": "/react-example/static/js/2.5e37bc04.chunk.js.map",
+    "index.html": "/react-example/index.html",
+    "precache-manifest.305a9ade084de6070a2fd1faed2c7d73.js": "/react-example/precache-manifest.305a9ade084de6070a2fd1faed2c7d73.js",
+    "service-worker.js": "/react-example/service-worker.js",
+    "static/css/2.266e55a5.chunk.css.map": "/react-example/static/css/2.266e55a5.chunk.css.map",
+    "static/css/main.443df7c6.chunk.css.map": "/react-example/static/css/main.443df7c6.chunk.css.map",
+    "static/media/App.css": "/react-example/static/media/bg.b6796c73.jpg"
   }
 }
